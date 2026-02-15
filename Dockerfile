@@ -1,5 +1,5 @@
 # صورة أساس أقل ثغرات
-FROM node:24.6.0-trixie-slim
+FROM node:24.13.1-trixie-slim
 
 # وضع الإنتاج
 ENV NODE_ENV=production
